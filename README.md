@@ -1,9 +1,9 @@
 # UTP_Ciclo_2_Reto_5
 
-En este archivo se encuentra el código del reto 5 del ciclo 2 de la estudiante *AIRAM COBO SOLIS*. 
-*Universidad:* Universidad Tecnologica de Pereira
-*Grupo:* 30
-*Profesora:* Calletana López Baleta
+En este archivo se encuentra el código del reto 5 del ciclo 2 de la estudiante *AIRAM COBO SOLIS*.<br> 
+*Universidad:* Universidad Tecnologica de Pereira<br>
+*Grupo:* 30<br>
+*Profesora:* Calletana López Baleta<br>
 
 *Instrucción:*
 ¡Tripulante! debe crear una aplicación de escritorio, que muestre los resultados de las consultas de información 
